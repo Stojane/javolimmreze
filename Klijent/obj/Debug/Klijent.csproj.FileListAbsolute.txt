@@ -1,0 +1,16 @@
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\bin\Debug\Klijent.exe
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\bin\Debug\Klijent.pdb
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\obj\Debug\Klijent.csproj.AssemblyReference.cache
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\obj\Debug\Klijent.exe
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\obj\Debug\Klijent.pdb
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Klijent\obj\Debug\Klijent.exe.config
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\bin\Debug\Klijent.exe
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\obj\Debug\Klijent.csproj.AssemblyReference.cache
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\obj\Debug\Klijent.exe.config
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\obj\Debug\Klijent.exe
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Klijent\obj\Debug\Klijent.pdb

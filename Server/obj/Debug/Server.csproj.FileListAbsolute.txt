@@ -1,0 +1,36 @@
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\bin\Debug\Server.exe.config
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\bin\Debug\Server.exe
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\bin\Debug\Server.pdb
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\obj\Debug\Server.exe
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\obj\Debug\Server.pdb
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\obj\Debug\Server.exe.config
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\bin\Debug\Neljuti se covece.exe
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\bin\Debug\Neljuti se covece.pdb
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\bin\Debug\Neljuti se covece.exe.config
+C:\Users\stoja\OneDrive\Desktop\Ne ljuti se covece\Neljuti se covece\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\bin\Debug\Server.exe.config
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\bin\Debug\Server.exe
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\bin\Debug\Server.pdb
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\bin\Debug\Neljuti se covece.exe
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\bin\Debug\Neljuti se covece.pdb
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\bin\Debug\Neljuti se covece.exe.config
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\obj\Debug\Server.exe.config
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\obj\Debug\Server.exe
+C:\Users\Vladimir Gajic\Desktop\Neljuti se covece\Server\obj\Debug\Server.pdb
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\bin\Debug\Server.exe.config
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\bin\Debug\Server.exe
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\bin\Debug\Server.pdb
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\bin\Debug\Neljuti se covece.exe
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\bin\Debug\Neljuti se covece.pdb
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\bin\Debug\Neljuti se covece.exe.config
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\obj\Debug\Server.exe.config
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\obj\Debug\Server.exe
+C:\Users\stoja\OneDrive\Desktop\Neljuti se covece\Server\obj\Debug\Server.pdb
